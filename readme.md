@@ -1,7 +1,3 @@
-# Creating README.md and .gitignore for Your LeetCode Repository
-
-## README.md
-
 ````markdown
 # LeetCode Solutions
 
@@ -58,7 +54,3 @@ You can run any solution using one of these methods:
 ## LeetCode Profile
 
 https://leetcode.com/u/fcen/
-
-```
-
-```
