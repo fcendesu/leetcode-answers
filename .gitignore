@@ -1,3 +1,5 @@
 package-lock.json
 node_modules
-dist/.*map
+dist/*.js.map
+.tmp/ 
+.temp/
